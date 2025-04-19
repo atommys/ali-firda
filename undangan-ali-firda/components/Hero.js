@@ -1,0 +1,1 @@
+export default function Hero() { return <section className='h-screen bg-[url(/hero.jpg)] bg-cover bg-center flex items-center justify-center'><h1 className='text-5xl text-white'>Ali & Firda</h1></section> }

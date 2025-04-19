@@ -1,0 +1,1 @@
+export default function Cerita() { return <section className='p-10'><h2 className='text-2xl'>Cerita Kami</h2><p>Bertemu di kampus, jatuh cinta, menikah.</p></section> }

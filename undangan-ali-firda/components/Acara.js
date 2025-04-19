@@ -1,0 +1,1 @@
+export default function Acara() { return <section className='p-10'><h2 className='text-2xl'>Acara</h2><p>Pernikahan: 20 Mei 2025</p></section> }

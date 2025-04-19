@@ -1,0 +1,1 @@
+export default function Galeri() { return <section className='p-10 grid grid-cols-2 gap-4'><img src='/foto1.jpg'/><img src='/foto2.jpg'/></section> }

@@ -1,0 +1,1 @@
+export default function RSVP() { return <section className='p-10'><h2 className='text-2xl'>RSVP</h2><form><input placeholder='Nama' className='border p-2' /><button className='bg-black text-white px-4 py-2 ml-2'>Kirim</button></form></section> }
